@@ -1,3 +1,5 @@
+//https://informatics.mccme.ru/mod/statements/view.php?id=12859#1
+
 #include <iostream>
 #include <vector>
 
